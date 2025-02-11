@@ -1,0 +1,10 @@
+users:
+  - username: Ashok
+    roles: [AmazonEC2FullAccess]
+    group: developers
+  - username: Jay
+    roles: [AmazonS3FullAccess]
+    group: developers
+  - username: Prajay
+    roles: [AmazonEC2FullAccess, AmazonS3FullAccess]
+    group: testors
