@@ -67,6 +67,3 @@ python architecture_diagram.py
 - Follow the principle of least privilege when assigning IAM policies
 - Consider using AWS Organizations and Service Control Policies for additional security layers
 
-## License
-
-[Specify your license here]
